@@ -1,0 +1,58 @@
+.admin-bar-item{
+  width:100%;
+  display:block;
+  padding:8px 16px;
+  text-align:left;
+  border:none;
+  white-space:normal;
+  float:none;
+  outline:0}
+.admin-bar-block .admin-dropdown-hover,.admin-bar-block .admin-dropdown-click{
+  width:100%}
+.admin-bar-block .admin-dropdown-hover .admin-dropdown-content,.admin-bar-block .admin-dropdown-click .admin-dropdown-content{
+  min-width:100%}
+.admin-bar-block .admin-dropdown-hover .admin-button,.admin-bar-block .admin-dropdown-click .admin-button{
+  width:100%;text-align:left;padding:8px 16px}
+.admin-light-grey{
+  color: #000 !important;
+background-color: #f1f1f1 !important;
+}
+.admin-sidebar {
+    height: 100%;
+    width: 200px;
+    background-color: #fff;
+    position: fixed !important;
+    z-index: 1;
+    
+    overflow-x: hidden
+}
+.admin-dark-grey{
+  color: #fff !important;
+background-color: #616161 !important;
+}
+.admin-padding-16 {
+    padding-top: 16px !important;
+    padding-bottom: 16px !important;
+}
+.admin-button {
+    white-space: normal;
+}
+.admin-right {
+    float: right !important;
+}
+.admin-green, .admin-hover-green:hover {
+    color: #fff !important;
+    background-color: #4CAF50 !important;
+}
+.admin-blue, .admin-hover-blue:hover {
+    color: #fff !important;
+    background-color: blue !important;
+}
+.admin-yellow, .admin-hover-yellow:hover {
+    color: #fff !important;
+    background-color: #2196F3 !important;
+}
+.admin-pink, .admin-hover-pink:hover {
+    color: #fff !important;
+    background-color: #009688 !important;
+}

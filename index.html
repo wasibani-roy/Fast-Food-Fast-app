@@ -32,20 +32,29 @@
        <h1></h1>
        <p>Sign in to start Ordering or <a href="signup.html">signup</a> to create an account</p>
      </div>
-      <form method="" action="" class="clearfix">
-        <div class="form-group">
-              <label for="username" class="control-label">Username</label>
-              <input type="name" class="form-control" name="username" placeholder="Username">
-        </div>
-        <div class="form-group">
-            <label for="Password" class="control-label">Password</label>
-            <input type="password" name= "password" class="form-control" placeholder="password">
-        </div>
-        <div class="form-group">
-          <a href="home.html"><button type="submit" class="btn btn-info  pull-right">Login</button></a>
-        </div>
-    </form>
-        <a href="home.html" class="btn btn-info">Login</a>
+      <div class="form-group">
+    	<label for="username" class="control-label">Username</label>
+        <input type="name" class="form-control" name="username" placeholder="Username" id="user"><br>
+        <label for="Password" class="control-label">Password</label>
+         <input type="password" name= "password" id="pass" class="form-control" placeholder="password"><br>
+         <button class="btn btn-info  pull-right" onclick="loginUser()">Login</button>
+    </div>
+    <script language="javascript" type="text/javascript">
+    document.getElementById("myForm")
+		window.loginUser = function() {
+			console.log("try 1")
+			var x = document.getElementById('user').value;
+			var y = document.getElementById('pass').value;
+			if (x=="admin") {
+			  	if (y =="admin") {
+			  		console.log("am here")
+			  		document.location="admin.html"
+			  	}
+  }
+  else
+  	document.location="home.html"
+}
+</script>
 </div>
     </div>
   </div>

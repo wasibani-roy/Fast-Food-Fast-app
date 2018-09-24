@@ -27,26 +27,6 @@ h1,h2,h3,h4,h5,h6 {
     background-color: #3175b8;
     border-color: #3d8fd8
 }
-.btn1{
-  border-radius: 3px;
-  -webkit-transition: all 300ms ease-in-out;
-  -moz-transition: all 300ms ease-in-out;
-   transition: all 300ms ease-in-out;
-}.btn1-primary {
-    color: #fff;
-    background-color: #4caf50;
-    border-color: #3d8fd8;
-    text-decoration: none;
-    padding: 5px 10px;
-}.btn1-primary:hover, .btn1-primary:focus, .btn1-primary.focus, .btn1-primary:active, .btn1-primary.active{
-    color: #fff;
-    background-color: #4caf50;
-    border-color: #3d8fd8
-}
-.home-page{
-  width: 100%;
-  
-}
 .login-page{
   /* width: 350px; */
   font-size: 21px;
@@ -252,63 +232,21 @@ table tbody tr td{
     background-color: #3175b8;
     border-color: #3d8fd8
 }
-.admin-bar-item{
-  width:100%;
-  display:block;
-  padding:8px 16px;
-  text-align:left;
-  border:none;
-  white-space:normal;
-  float:none;
-  outline:0}
-.admin-bar-block .admin-dropdown-hover,.admin-bar-block .admin-dropdown-click{
-  width:100%}
-.admin-bar-block .admin-dropdown-hover .admin-dropdown-content,.admin-bar-block .admin-dropdown-click .admin-dropdown-content{
-  min-width:100%}
-.admin-bar-block .admin-dropdown-hover .admin-button,.admin-bar-block .admin-dropdown-click .admin-button{
-  width:100%;text-align:left;padding:8px 16px}
-.admin-light-grey{
-  color: #000 !important;
-background-color: #f1f1f1 !important;
-}
-.admin-sidebar {
-    height: 100%;
-    width: 200px;
-    background-color: #fff;
-    position: fixed !important;
-    z-index: 1;
-    
-    overflow-x: hidden
-}
-.admin-dark-grey{
-  color: #fff !important;
-background-color: #616161 !important;
-}
-.admin-padding-16 {
-    padding-top: 16px !important;
-    padding-bottom: 16px !important;
-}
-.admin-button {
-    white-space: normal;
-}
-.admin-right {
-    float: right !important;
-}
-.admin-green, .admin-hover-green:hover {
-    color: #fff !important;
-    background-color: #4CAF50 !important;
-}
-.admin-blue, .admin-hover-blue:hover {
-    color: #fff !important;
-    background-color: blue !important;
-}
-.admin-yellow, .admin-hover-yellow:hover {
-    color: #fff !important;
-    background-color: #2196F3 !important;
-}
-.admin-pink, .admin-hover-pink:hover {
-    color: #fff !important;
-    background-color: #009688 !important;
+.btn1{
+  border-radius: 3px;
+  -webkit-transition: all 300ms ease-in-out;
+  -moz-transition: all 300ms ease-in-out;
+   transition: all 300ms ease-in-out;
+}.btn1-primary {
+    color: #fff;
+    background-color: #4caf50;
+    border-color: #3d8fd8;
+    text-decoration: none;
+    padding: 5px 10px;
+}.btn1-primary:hover, .btn1-primary:focus, .btn1-primary.focus, .btn1-primary:active, .btn1-primary.active{
+    color: #fff;
+    background-color: #4caf50;
+    border-color: #3d8fd8
 }
 .admin-btn:hover{
   box-shadow:0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)
@@ -384,9 +322,7 @@ img {
 }
 #menu{
 }
-.admin-text-grey, .admin-hover-text-grey:hover, .admin-text-gray, .admin-hover-text-gray:hover {
-    /* color: #757575 !important; */
-}
+
 @media screen and (max-width: 455px) {
     .h3 {
         font-size:16px;

@@ -1,0 +1,78 @@
+.para{
+  width: 100%;
+  font-family: 'Aclonica';font-size: 22px;
+  /* font-family: 'Aclonica'; */
+  color: lightcoral;
+  /* font-size: 22px; */
+  margin-top: -59px;
+}
+.para h5 {
+    text-transform: uppercase;
+    font-size: 38px;
+    /* color: #000; */
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-align: center;
+    font-family: 'Aclonica';
+    color: lightcoral;
+    font-size: 38px;
+}
+.para p {
+    font-size: 22px;
+    /* color: #333; */
+    letter-spacing: 1px;
+    /* margin: 2em 0; */
+    line-height: 27px;
+    text-align: center;
+    margin-top: -37px;
+}
+.order-details {
+  text-align: center;
+  /* width: 50%; */
+  margin-top: -18px;
+}
+.order-info{
+  font-size: 20px;
+  letter-spacing: 2px;
+  margin-top: 5px;
+  color: #333;
+  font-family: 'Aclonica';
+  color: lightcoral;
+  font-size: 22px;
+}
+.order-details h4{
+  /* font-size: 20px; */
+  font-family: 'Aclonica';
+  color: lightcoral;
+  font-size: 22px;
+}
+.order-info h4{
+  /* font-size: 17px; */
+  line-height: 1;
+  /* color: #333; */
+  font-family: 'Aclonica';
+  color: lightcoral;
+  font-size: 22px;
+}
+.order-btn{
+  background-color: #0067da;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+.order {
+    background: #fff;
+    padding: 2em 0;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 82px;
+}
+.title {
+    font-size: 50px;
+    text-align: center;
+    color: #333;
+    margin-bottom: 45px;
+    text-transform: uppercase;
+    letter-spacing: 12px;
+}

@@ -1,7 +1,7 @@
 # Fast-Food-Fast-app
 Fast-Food-Fast-app is a food ordering app 
 
-#####Functionality
+##### Functionality
 Login page - which implements the login functionality of the app to enable a user login to the app to start making his orders
 
 Registration page - Which implements the registration functionality allowing the user to register and create an account they will use to log into the system and make orders
@@ -18,14 +18,14 @@ Approve page - this page show the admin all products that he has tagged as appro
 
 completed page - this is a page that shows the admin all orders that have been completed
 
-#####Built with 
+##### Built with 
  - HTML 
  - CSS
  -JavaScript
 
-#####Author 
+##### Author 
  - Wasibani Roy
 
-#####Acknowledgement 
+##### Acknowledgement 
  - Andela 
  - David

@@ -1,14 +1,31 @@
 # Fast-Food-Fast-app
 Fast-Food-Fast-app is a food ordering app 
 
-##Functionality
-1. Users can create an account and log in
-2. A user should be able to order for food
-3. The admin should be able to add,edit or delete the fast-food items
-4. The admin should be able to see a list of fast-food items
-5. The Admin user should be able to do the following:
-6. See a list of orders
-7. Accept and decline orders
-8. Mark orders as completed
-9. A user should be able to see a history of ordered food
+##### Functionality
+Login page - which implements the login functionality of the app to enable a user login to the app to start making his orders
 
+Registration page - Which implements the registration functionality allowing the user to register and create an account they will use to log into the system and make orders
+
+Home page - Is the page the user sees upon successful login. On this page they will be able see the food available and then place there order
+
+Order page - Presents the user with information of the order that he/she has placed
+
+Admin page - is the page that the admin sees when he logs in giving him access to all orders that have been made
+
+Order page - This page presents the admin with all orders entered into the system by the users and gives him the option to approve or deny 
+
+Approve page - this page show the admin all products that he has tagged as approved
+
+completed page - this is a page that shows the admin all orders that have been completed
+
+##### Built with 
+ - HTML 
+ - CSS
+ -JavaScript
+
+##### Author 
+ - Wasibani Roy
+
+##### Acknowledgement 
+ - Andela 
+ - David
